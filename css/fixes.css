@@ -1,0 +1,92 @@
+.navbar-brand {
+    transform: scale(1.2) translateY(-8%);
+}
+
+.titlebar h2::after {
+    background: #ffc400 !important;
+}
+
+#intro_image img {
+    transform: scale(1.1);
+}
+
+#about .col-md-7 {
+    padding-right: 70px !important;
+}
+
+.icon-box.img-circle.smaller img {
+    width: 40px !important;
+}
+
+.icon-box.img-circle img {
+    width: 49px;
+    height: auto;
+}
+
+.pp_social {
+    display: none !important;
+}
+
+section {
+    padding-top: 80px !important;
+    padding-bottom: 80px !important;
+}
+
+section#portfolio, .no-padding-bottom {
+    padding-bottom: 0 !important;
+}
+
+h2 {
+    padding-top: 0 !important;
+    padding-bottom: 0 !important;
+    margin-bottom: 0 !important;
+}
+
+.features-text.titlebar {
+    margin-bottom: 25px;
+}
+
+.features-box {
+    margin-bottom: 15px !important;
+}
+
+.features-box b {
+    text-transform: uppercase;
+}
+
+.features-box.last {
+    margin-bottom: 0 !important;
+}
+
+.titlebar p {
+    margin-bottom: 0 !important;
+}
+
+#portfolio .titlebar {
+    margin-bottom: 60px !important;
+}
+
+#intro_content {
+    padding-top: 140px !important;
+    padding-bottom: 90px !important;
+}
+
+#intro_content h2 {
+    margin-bottom: 25px !important;
+}
+
+#scrollUp {
+    background-color: #f0620b !important;
+}
+
+.cookies {
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 10px 80px 10px 30px;
+    background: rgba(0,0,0,0.8);
+    color: #fff;
+}
